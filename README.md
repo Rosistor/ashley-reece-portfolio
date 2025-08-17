@@ -1,4 +1,3 @@
-# ashley-reece-portfolio
 # Ashley Reece | Data Analytics Portfolio
 
 Welcome to my data analytics portfolio! I'm currently pursuing a Bachelor's in Information Systems/Supply Chain Management with a concentration in Business Analytics.
