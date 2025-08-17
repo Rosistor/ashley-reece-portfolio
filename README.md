@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashley Reece
 
-Welcome to my data analytics portfolio! I'm currently pursuing a Bachelor's in Information Systems and Supply Chain Management with a concentration in Business Analytics.
+Welcome to my data analytics portfolio! I'm currently pursuing a Bachelor's in Information Systems/Supply Chain Management with a concentration in Business Analytics.
 
 This space highlights my skills in SQL, Power BI, and Excel — along with a passion for process optimization, documentation, and building systems that make real-world workflows smoother.
 
@@ -48,3 +48,4 @@ Hands-on practice with real datasets:
 
 
 Thanks for visiting! Feel free to explore the folders above.
+
