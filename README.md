@@ -35,7 +35,6 @@ Hands-on practice with real datasets:
 | SQL       | Process Documentation     |
 | Power BI  | Stakeholder Communication |
 | Excel     | Workflow Optimization     |
-| GitHub    | Customer Support          |
 
 ---
 
@@ -46,5 +45,6 @@ Hands-on practice with real datasets:
 - Building systems that are not just functional — but sustainable and intuitive
 
 ---
+
 
 Thanks for visiting! Feel free to explore the folders above.
